@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amiryonatan/sym-link.git"
+    "url": "https://github.com/amiryonatan/link-module.git"
   },
   "files": [
     "index.js"
