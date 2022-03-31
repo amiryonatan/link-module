@@ -6,6 +6,10 @@
     "name": "Amir Yonatan",
     "email": "amir.yonatan1@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amiryonatan/sym-link.git"
+  },
   "files": [
     "index.js"
   ],
