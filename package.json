@@ -1,0 +1,13 @@
+{
+  "name": "sym-link",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Amir Yonatan",
+    "email": "amir.yonatan1@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": "./index.js"
+}
